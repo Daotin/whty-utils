@@ -2,6 +2,7 @@
   "name": "@whty/utils",
   "version": "1.0.0",
   "description": "公司utils公共函数库",
+  "private": false,
   "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,6 +16,9 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Daotin/whty-utils/issues"
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "homepage": "https://github.com/Daotin/whty-utils#readme"
 }
