@@ -1,5 +1,5 @@
 {
-  "name": "whty-utils",
+  "name": "@whty/utils",
   "version": "1.0.0",
   "description": "公司utils公共函数库",
   "main": "index.ts",
